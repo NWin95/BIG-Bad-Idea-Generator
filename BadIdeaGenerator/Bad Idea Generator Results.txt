@@ -180,3 +180,211 @@ Setting:      Feudal Japan, Americana
 Restrictions: Linear, Co-op   
 -----------------------------------
 
+(  12/23/2014 10:04:45 AM  )
+Genre:        Cover Based, Rail   
+Setting:      Time Travel, Steampunk   
+Restrictions: Long, Linear   
+-----------------------------------
+
+Genre:        RT Adventure, RT Adventure   
+Setting:      Rome, Feudal Japan   
+Restrictions: Linear, Fast   
+-----------------------------------
+
+Genre:        RT Adventure, FPS   
+Setting:      Fantasy, Grimm Tale   
+Restrictions: Slow, Short   
+-----------------------------------
+
+Genre:        RPG, Runner   
+Setting:      Theme Park, Time Travel   
+Restrictions: Slow, Co-op   
+-----------------------------------
+
+Genre:        Tower Defence, TB Strategy   
+Setting:      Cyberpunk, Rome   
+Restrictions: Open World, Slow   
+-----------------------------------
+
+(  12/23/2014 10:04:46 AM  )
+Genre:        RPG, Text Adventure   
+Setting:      Cartoon, Modern   
+Restrictions: Open World, Squad Based   
+-----------------------------------
+
+Genre:        Beat em up, Vehicle Sim   
+Setting:      Theme Park, Time Travel   
+Restrictions: Linear, Long   
+-----------------------------------
+
+Genre:        Construction, Rail   
+Setting:      Cyberpunk, Magical   
+Restrictions: Fast, Open World   
+-----------------------------------
+
+Genre:        TB Strategy, Thievery   
+Setting:      Fable, Cartoon   
+Restrictions: Slow, Long   
+-----------------------------------
+
+Genre:        Arena Shooter, P&C Adventure   
+Setting:      Cartoon, Pirates   
+Restrictions: Fast, Short   
+-----------------------------------
+
+(  12/23/2014 10:04:47 AM  )
+Genre:        Tower Defence, Brawler   
+Setting:      Future, Theme Park   
+Restrictions: Linear, Fast   
+-----------------------------------
+
+Genre:        Rail, Rail   
+Setting:      Pirates, Americana   
+Restrictions: Squad Based, Slow   
+-----------------------------------
+
+Genre:        P&C Adventure, Arena Shooter   
+Setting:      Fantasy, Future   
+Restrictions: Long, Squad Based   
+-----------------------------------
+
+Genre:        Platformer, Text Adventure   
+Setting:      Americana, Time Travel   
+Restrictions: Squad Based, Co-op   
+-----------------------------------
+
+Genre:        RT Adventure, Platformer   
+Setting:      Magical, Future   
+Restrictions: Fast, Long   
+-----------------------------------
+
+(  12/23/2014 10:04:47 AM  )
+Genre:        Text Adventure, RTS   
+Setting:      Rome, Mythological   
+Restrictions: Open World, Squad Based   
+-----------------------------------
+
+Genre:        Platformer, Life   
+Setting:      Cartoon, Post Appocalypse   
+Restrictions: Long, Co-op   
+-----------------------------------
+
+Genre:        P&C Adventure, RPG   
+Setting:      Mythological, Roaring 20s   
+Restrictions: Linear, Open World   
+-----------------------------------
+
+Genre:        Survival, Detective   
+Setting:      Magical, Pirates   
+Restrictions: Squad Based, Open World   
+-----------------------------------
+
+Genre:        Sports, Cover Based   
+Setting:      Theme Park, Pirates   
+Restrictions: Short, Open World   
+-----------------------------------
+
+(  12/23/2014 10:05:30 AM  )
+Genre:        Diablo Clone, P&C Adventure   
+Setting:      Cartoon, Steampunk   
+Restrictions: Linear, Co-op   
+-----------------------------------
+
+Genre:        Arena Shooter, Arena Shooter   
+Setting:      Steampunk, Magical   
+Restrictions: Co-op, Linear   
+-----------------------------------
+
+Genre:        FPS, Brawler   
+Setting:      Modern, Mythological   
+Restrictions: Long, Co-op   
+-----------------------------------
+
+Genre:        Fighting, Life   
+Setting:      Post Appocalypse, Grimm Tale   
+Restrictions: Long, Co-op   
+-----------------------------------
+
+Genre:        FPS, Platformer   
+Setting:      Post Appocalypse, Post Appocalypse   
+Restrictions: Open World, Open World   
+-----------------------------------
+
+(  12/23/2014 10:05:31 AM  )
+Genre:        Sports, Management   
+Setting:      Feudal Japan, Viking   
+Restrictions: Co-op, Short   
+-----------------------------------
+
+Genre:        FPS, Cover Based   
+Setting:      Mythological, Cartoon   
+Restrictions: Squad Based, Squad Based   
+-----------------------------------
+
+Genre:        Detective, P&C Adventure   
+Setting:      Cyberpunk, Time Travel   
+Restrictions: Fast, Fast   
+-----------------------------------
+
+Genre:        Runner, Fighting   
+Setting:      Magical, Cyberpunk   
+Restrictions: Squad Based, Squad Based   
+-----------------------------------
+
+Genre:        FPS, Stealth   
+Setting:      Cartoon, Cartoon   
+Restrictions: Short, Long   
+-----------------------------------
+
+(  12/23/2014 10:05:32 AM  )
+Genre:        Cover Based, Cover Based   
+Setting:      Theme Park, Rome   
+Restrictions: Slow, Long   
+-----------------------------------
+
+Genre:        Thievery, RT Adventure   
+Setting:      Grimm Tale, Fable   
+Restrictions: Short, Squad Based   
+-----------------------------------
+
+Genre:        Survival, Management   
+Setting:      Pirates, Cyberpunk   
+Restrictions: Slow, Co-op   
+-----------------------------------
+
+Genre:        Management, Survival   
+Setting:      Cyberpunk, Viking   
+Restrictions: Long, Linear   
+-----------------------------------
+
+Genre:        Runner, Platformer   
+Setting:      Future, Home   
+Restrictions: Co-op, Fast   
+-----------------------------------
+
+(  12/23/2014 10:05:32 AM  )
+Genre:        Diablo Clone, Thievery   
+Setting:      Alien World, Fantasy   
+Restrictions: Fast, Squad Based   
+-----------------------------------
+
+Genre:        Sports, FPS   
+Setting:      Theme Park, Americana   
+Restrictions: Slow, Open World   
+-----------------------------------
+
+Genre:        Construction, Cover Based   
+Setting:      Steampunk, Feudal Japan   
+Restrictions: Short, Open World   
+-----------------------------------
+
+Genre:        Beat em up, Rail   
+Setting:      Future, Grimm Tale   
+Restrictions: Slow, Linear   
+-----------------------------------
+
+Genre:        Brawler, Text Adventure   
+Setting:      Post Appocalypse, Cyberpunk   
+Restrictions: Open World, Co-op   
+-----------------------------------
+
