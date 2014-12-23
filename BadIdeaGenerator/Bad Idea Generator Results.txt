@@ -2,6 +2,10 @@
 Genre:        Beat em up, Tower Defence   
 Setting:      Future, Theme Park   
 Restrictions: Squad Based, Short   
+================================
+self aware robots sneak into theme parks to understand "fun".  You and your team have to defend the park from them using melee combat and MacGyvered turrets, since you aren't allowed to have guns.  The game is based on rounds in open areas, like Killing Floor.
+
+
 -----------------------------------
 
 (  12/23/2014 10:20:28 AM  )
@@ -13,13 +17,21 @@ Restrictions: Squad Based, Open World
 (  12/23/2014 10:20:28 AM  )
 Genre:        Life, Racing   
 Setting:      Modern, Cyberpunk   
-Restrictions: Slow, Open World   
+Restrictions: Slow, Open World  
+================================
+you play a racer in an alternate reality cyberpunk open world with basically modern architecture.  You handle life responsibilities like housing and making money for food with your races.  The races are slightly slow paced, with an emphasis on making tactical decisions, like paths, upgrades, and traps
+
+
 -----------------------------------
 
 (  12/23/2014 10:20:28 AM  )
 Genre:        Survival, Runner   
 Setting:      Roaring 20s, Viking   
 Restrictions: Linear, Squad Based   
+================================
+you and your friends are crazy cult men in the 1920s who thinks they are Vikings.  You have to survive with old Viking-like techniques in the 1920s city.  You have to out pace the police following you and keep away from their traps.
+
+
 -----------------------------------
 
 (  12/23/2014 10:20:28 AM  )
@@ -146,5 +158,35 @@ Restrictions: Linear, Fast
 Genre:        Stealth, Text Adventure   
 Setting:      Viking, Fantasy   
 Restrictions: Co-op, Long   
+-----------------------------------
+
+(  12/23/2014 12:38:37 PM  )
+Genre:        Racing, Arena Shooter   
+Setting:      Heaven, Lab   
+Restrictions: Slow, Squad Based   
+-----------------------------------
+
+(  12/23/2014 12:38:37 PM  )
+Genre:        Life, Detective   
+Setting:      Forest, Roaring 20s   
+Restrictions: Short, Linear   
+-----------------------------------
+
+(  12/23/2014 12:38:37 PM  )
+Genre:        Management, Management   
+Setting:      Magical, Heaven   
+Restrictions: Linear, Linear   
+-----------------------------------
+
+(  12/23/2014 12:38:37 PM  )
+Genre:        Overhead, Diablo Clone   
+Setting:      Alien World, Grimm Tale   
+Restrictions: Squad Based, Short   
+-----------------------------------
+
+(  12/23/2014 12:38:37 PM  )
+Genre:        Thievery, Side Scroller   
+Setting:      Cyberpunk, Mythological   
+Restrictions: Fast, Linear   
 -----------------------------------
 
