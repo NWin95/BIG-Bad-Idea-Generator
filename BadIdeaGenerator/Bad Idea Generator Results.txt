@@ -8,10 +8,14 @@ self aware robots sneak into theme parks to understand "fun".  You and your team
 
 -----------------------------------
 
-(  12/23/2014 10:20:28 AM  )
+(  12/23/2014 10:20:28 AM  )			(in best list as: Good Idea)
 Genre:        RPG, Platformer   
 Setting:      Grimm Tale, Alien World   
 Restrictions: Squad Based, Open World   
+================================
+(addition of mystery genre)  You are a magic skeptic sent to a Grimm setting village by a nervous ruler to investigate claims of Grimm style danger.  You have been sent with a squad since the ruler does not trust the eyes of only one person, feeling the alien magic will corrupt your judgement.  The village was formed around an old colony started by humans who nearly all died due to a lack of discipline and now believe in the Grimm tales as gospel.  It is your job to figure out if the village / world has actual magic properties, or if it is a result of something natural, or if it is deception by the cult.  Your task is made more difficult by multiple platforming intensive disturbing psychological experiences, with possible clues as to the cause of the disturbances.  The game is open world to allow clue discovery through problem solving and player voilition.
+
+
 -----------------------------------
 
 (  12/23/2014 10:20:28 AM  )
@@ -188,5 +192,95 @@ Restrictions: Squad Based, Short
 Genre:        Thievery, Side Scroller   
 Setting:      Cyberpunk, Mythological   
 Restrictions: Fast, Linear   
+-----------------------------------
+
+(  12/23/2014 2:06:52 PM  )
+Genre:        TB Strategy, Detective   
+Setting:      Rome, Rome   
+Restrictions: Short, Linear   
+-----------------------------------
+
+(  12/23/2014 2:06:52 PM  )
+Genre:        Tower Defence, Racing   
+Setting:      Fantasy,    
+Restrictions: Open World, Open World   
+-----------------------------------
+
+(  12/23/2014 2:06:52 PM  )
+Genre:        P&C Adventure, Thievery   
+Setting:      Modern, Cartoon   
+Restrictions: Co-op, Fast   
+-----------------------------------
+
+(  12/23/2014 2:06:52 PM  )
+Genre:        Platformer, P&C Adventure   
+Setting:      Space Ship, Chinese   
+Restrictions: Fast, Squad Based   
+-----------------------------------
+
+(  12/23/2014 2:06:52 PM  )
+Genre:        Fighting, Super Hero   
+Setting:      Viking, Feudal Japan   
+Restrictions: Co-op, Slow   
+-----------------------------------
+
+(  12/23/2014 2:06:54 PM  )
+Genre:        Platformer, RTS   
+Setting:      Theme Park, Lab   
+Restrictions: Co-op, Squad Based   
+-----------------------------------
+
+(  12/23/2014 2:06:54 PM  )
+Genre:        Construction, Fighting   
+Setting:      Zombie,    
+Restrictions: Slow, Squad Based   
+-----------------------------------
+
+(  12/23/2014 2:06:54 PM  )
+Genre:        RPG, Side Scroller   
+Setting:      Biopunk, Steampunk   
+Restrictions: Long, Long   
+-----------------------------------
+
+(  12/23/2014 2:06:54 PM  )
+Genre:        Life, Cover Based   
+Setting:      Alien World, Medieval   
+Restrictions: Long, Slow   
+-----------------------------------
+
+(  12/23/2014 2:06:54 PM  )
+Genre:        TB Strategy, RT Adventure   
+Setting:      Rome, Lab   
+Restrictions: Open World, Linear   
+-----------------------------------
+
+(  12/23/2014 2:08:07 PM  )
+Genre:        FPS, Stealth   
+Setting:      Viking, Space   
+Restrictions: Long, Open World   
+-----------------------------------
+
+(  12/23/2014 2:08:07 PM  )
+Genre:        Thievery, Brawler   
+Setting:      Feudal Japan, Cartoon   
+Restrictions: Long, Linear   
+-----------------------------------
+
+(  12/23/2014 2:08:07 PM  )
+Genre:        Construction, RTS   
+Setting:      Gangster, Americana   
+Restrictions: Squad Based, Short   
+-----------------------------------
+
+(  12/23/2014 2:08:07 PM  )
+Genre:        Cover Based, TPS   
+Setting:      Heaven, Space   
+Restrictions: Linear, Long   
+-----------------------------------
+
+(  12/23/2014 2:08:07 PM  )
+Genre:        Sports, Life   
+Setting:      Magical, Theme Park   
+Restrictions: Squad Based, Open World   
 -----------------------------------
 
