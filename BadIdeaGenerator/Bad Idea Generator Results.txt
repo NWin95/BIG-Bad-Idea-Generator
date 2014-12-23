@@ -58,3 +58,93 @@ Setting:      Americana, Fantasy
 Restrictions: Long, Short   
 -----------------------------------
 
+(  12/23/2014 10:35:11 AM  )
+Genre:        Platformer, Detective   
+Setting:      Mythological, Modern   
+Restrictions: Fast, Long   
+-----------------------------------
+
+(  12/23/2014 10:35:11 AM  )
+Genre:        RPG, RT Adventure   
+Setting:      Magical, Americana   
+Restrictions: Linear, Fast   
+-----------------------------------
+
+(  12/23/2014 10:35:11 AM  )
+Genre:        RTS, Diablo Clone   
+Setting:      Post Appocalypse, Viking   
+Restrictions: Slow, Linear   
+-----------------------------------
+
+(  12/23/2014 10:35:11 AM  )
+Genre:        Sports, Tower Defence   
+Setting:      Feudal Japan, Post Appocalypse   
+Restrictions: Long, Linear   
+-----------------------------------
+
+(  12/23/2014 10:35:11 AM  )
+Genre:        FPS, Life   
+Setting:      Grimm Tale, Mythological   
+Restrictions: Fast, Long   
+-----------------------------------
+
+(  12/23/2014 10:40:33 AM  )
+Genre:        FPS, Stealth   
+Setting:      Post Appocalypse, Time Travel   
+Restrictions: Fast, Co-op   
+-----------------------------------
+
+(  12/23/2014 10:40:33 AM  )
+Genre:        FPS, Stealth   
+Setting:      Grimm Tale, Grimm Tale   
+Restrictions: Short, Squad Based   
+-----------------------------------
+
+(  12/23/2014 10:40:33 AM  )
+Genre:        Construction, Thievery   
+Setting:      Fable, Theme Park   
+Restrictions: Squad Based, Squad Based   
+-----------------------------------
+
+(  12/23/2014 10:40:33 AM  )
+Genre:        Diablo Clone, Vehicle Sim   
+Setting:      Rome, Viking   
+Restrictions: Short, Short   
+-----------------------------------
+
+(  12/23/2014 10:40:33 AM  )
+Genre:        TPS, Text Adventure   
+Setting:      Viking, Americana   
+Restrictions: Linear, Short   
+-----------------------------------
+
+(  12/23/2014 10:40:35 AM  )
+Genre:        Racing, Platformer   
+Setting:      Mythological, Theme Park   
+Restrictions: Short, Open World   
+-----------------------------------
+
+(  12/23/2014 10:40:35 AM  )
+Genre:        TPS, Survival   
+Setting:      Pirates, Time Travel   
+Restrictions: Long, Co-op   
+-----------------------------------
+
+(  12/23/2014 10:40:35 AM  )
+Genre:        Thievery, FPS   
+Setting:      Viking, Roaring 20s   
+Restrictions: Squad Based, Co-op   
+-----------------------------------
+
+(  12/23/2014 10:40:35 AM  )
+Genre:        Platformer, TPS   
+Setting:      Future, Magical   
+Restrictions: Linear, Fast   
+-----------------------------------
+
+(  12/23/2014 10:40:35 AM  )
+Genre:        Stealth, Text Adventure   
+Setting:      Viking, Fantasy   
+Restrictions: Co-op, Long   
+-----------------------------------
+

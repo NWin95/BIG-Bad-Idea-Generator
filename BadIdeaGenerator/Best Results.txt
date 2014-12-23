@@ -13,3 +13,8 @@ Genre:        RT Adventure, Stealth
 Setting:      Americana, Fantasy   
 Restrictions: Long, Short   
 -----------------------------------
+(  12/23/2014 10:35:11 AM  )			(Good Idea)
+Genre:        FPS, Life   
+Setting:      Grimm Tale, Mythological   
+Restrictions: Fast, Long   
+-----------------------------------
