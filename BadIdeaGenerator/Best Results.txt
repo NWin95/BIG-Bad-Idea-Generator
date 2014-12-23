@@ -1,0 +1,15 @@
+(  12/23/2014 10:20:28 AM  )			(Good Idea)
+Genre:        RPG, Platformer   
+Setting:      Grimm Tale, Alien World   
+Restrictions: Squad Based, Open World   
+-----------------------------------
+(  12/23/2014 10:20:29 AM  )			(Interesting)
+Genre:        Arena Shooter, Detective   
+Setting:      Roaring 20s, Alien World   
+Restrictions: Linear, Fast   
+-----------------------------------
+(  12/23/2014 10:20:29 AM  )			(Good Idea)
+Genre:        RT Adventure, Stealth   
+Setting:      Americana, Fantasy   
+Restrictions: Long, Short   
+-----------------------------------

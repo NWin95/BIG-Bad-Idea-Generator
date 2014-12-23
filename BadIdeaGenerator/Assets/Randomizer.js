@@ -23,12 +23,8 @@ var s2	: UI.Text;
 var r1	: UI.Text;
 var r2	: UI.Text;
 
-//var append	: FileStream;
-//var writer	: System.IO.StreamWriter;
-
 function Start ()
 {
-//	append	= new FileStream (fileName, FileMode.Append);
 	Generate ();
 }
 
@@ -42,12 +38,6 @@ function Update ()
 
 function Generate ()
 {
-//	var append	: FileStream	= new FileStream (fileName, FileMode.Append);	
-//	var writer	: System.IO.StreamWriter	= new StreamWriter (append);
-//	writer.WriteLine (System.DateTime.Now.ToString ());
-//	Debug.Log (System.DateTime.Now);
-//	Debug.Log (System.DateTime.UtcNow);
-	
 	number	= baseNumber;
 	while (number > 0)
 	{
@@ -70,10 +60,7 @@ function FileWrite ()
 	var append	: FileStream	= new FileStream (fileName, FileMode.Append);	
 	var writer	: System.IO.StreamWriter	= new StreamWriter (append);
 	
-	if (number == baseNumber)
-	{
-		writer.WriteLine ("(  " + System.DateTime.UtcNow.ToString() + "  )");
-	}
+	writer.WriteLine ("(  " + System.DateTime.UtcNow.ToString() + "  )");
 	writer.WriteLine ("Genre:        "+g1.text+cs+g2.text+t);
 	writer.WriteLine ("Setting:      "+s1.text+cs+s2.text+t);
 	writer.WriteLine ("Restrictions: "+r1.text+cs+r2.text+t);
