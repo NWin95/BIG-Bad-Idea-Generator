@@ -3,6 +3,7 @@
 import System;
 import System.IO;
 
+
 var baseNumber	: int;
 var number		: int;
 
@@ -55,11 +56,12 @@ function Generate ()
 	}
 }
 
+
 function FileWrite ()
 {
-	var append	: FileStream	= new FileStream (fileName, FileMode.Append);	
-	var writer	: System.IO.StreamWriter	= new StreamWriter (append);
 	
+	var writer : StreamWriter = new StreamWriter ( fileName );
+
 	writer.WriteLine ("(  " + System.DateTime.UtcNow.ToString() + "  )");
 	writer.WriteLine ("Genre:        "+g1.text+cs+g2.text+t);
 	writer.WriteLine ("Setting:      "+s1.text+cs+s2.text+t);
